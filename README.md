@@ -1,13 +1,3 @@
-# Remote-control-server
----
----
-
-## **2. Remote-control-server**
-**README actuel** :
-> "Éteindre ou redémarrer un serveur à distance. Fait le 19 juillet 2025."
-
-### **Proposition de README professionnel**
-```markdown
 # 🖥️ Remote Control Server
 **Éteindre ou redémarrer un serveur à distance en Python**
 
@@ -23,15 +13,15 @@ Script Python permettant d’**éteindre ou redémarrer un serveur à distance**
 ---
 
 ## 🛠 **Fonctionnalités**
-- ✅ **Contrôle à distance** (éteindre/redémarrer)
-- ✅ **Sécurité** : Authentification requise
-- ✅ **Lightweight** : Aucun dépendance lourde
+- ✅ Contrôle à distance (éteindre/redémarrer)
+- ✅ Sécurité : Authentification requise
+- ✅ Lightweight : Aucune dépendance lourde
 
 ---
 ## 📦 **Prérequis**
 - Python 3.8+
 - Accès SSH au serveur distant
-- Bibliothèques : `paramiko` (pour SSH)
+- Bibliothèque : `paramiko` (pour SSH)
 
 ---
 ## 🚀 **Installation**
